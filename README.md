@@ -9,8 +9,8 @@
 This is my personal portfolio and project showcase website built with GitHub Pages.
 
 ## Featured Projects
-- [Project Name](https://github.com/<潘瑞宏>/project-name) — Brief description
-- [Course Repository](https://github.com/<潘瑞宏>/11501_CI001) — CI001 Course assignments
+- [Project Name](https://github.com/<s1153326>/project-name) — Brief description
+- [Course Repository](https://github.com/<s1153326>/11501_CI001) — CI001 Course assignments
 
 ## Contact
 Feel free to reach out to me at s1153326@mail.yzu.edu.tw
