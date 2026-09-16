@@ -3,7 +3,7 @@
 ## About Me
 - **Name**: 潘瑞宏
 - **Email**: s1153326@mail.yzu.edu.tw
-- **GitHub**: [@潘瑞宏](https://github.com/<潘瑞宏>)
+- **GitHub**: [@潘瑞宏](https://github.com/<1153326>)
 
 ## About This Site
 This is my personal portfolio and project showcase website built with GitHub Pages.
